@@ -12,8 +12,9 @@ async function handleFileOpen() {
 function createWindow() {
     // Create the browser window.
     const mainWindow = new electron_1.BrowserWindow({
-        width: 800,
-        height: 600,
+        autoHideMenuBar: true,
+        width: 1600,
+        height: 1000,
         webPreferences: {
             preload: (0, path_1.join)(__dirname, '../preload/preload.js'),
         },
