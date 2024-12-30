@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Uniques",
+    "rarities": ["Unique"],
+    "items": [],
+    "style": {
+      "borderColor": "#ff7800FF", 
+      "backgroundColor": "#000000FF", 
+      "textColor": "#ff7800FF", 
+      "fontSize": 45
+    }
+  },
+  {
+    "id": 2,
+    "name": "Armour bases",
+    "rarities": ["Normal", "Magic"],
+    "items": [
+      "Expert Soldier Greathelm",
+      "Expert Spired Greathelm",
+      "Expert Elite Greathelm",
+      "Expert Iron Cuirass",
+      "Expert Steel Plate",
+      "Expert Vaal Cuirass",
+      "Expert Iron Greaves",
+      "Expert Trimmed Greaves",
+      "Expert Stone Greaves",
+      "Expert Riveted Mitts",
+      "Expert Bolstered Mitts",
+      "Expert Moulded Mitts"
+    ],
+    "style": {
+      "borderColor": "#0000FFFF",
+      "textColor": "0000FFFF", 
+      "fontSize": 30
+    }
+  },
+  {
+    "id": 3,
+    "name": "Special chest bases",
+    "rarities": ["Normal", "Magic"],
+    "items": [
+      "Expert Iron Cuirass",
+      "Expert Steel Plate",
+      "Expert Vaal Cuirass",
+      "Expert Pathfinder Coat",
+      "Expert Studded Vest",
+      "Expert Serpentscale Coat",
+      "Expert Hexer's Robe",
+      "Expert Keth Raiment",
+      "Expert Altar Robe",
+      "Expert Rogue Armour",
+      "Expert Cloaked Mail",
+      "Expert Scale Mail",
+      "Expert Pelt Mantle",
+      "Expert Shaman Mantle",
+      "Expert Sacrificial Mantle",
+      "Expert Waxed Jacket",
+      "Expert Wayfarer Jacket",
+      "Expert Scalper's Jacket",
+      "Golden Mantle",
+      "Grand Regalia"
+    ],
+    "style": {
+      "borderColor": "#00FFFFFF",
+      "textColor": "00FFFFFF", 
+      "fontSize": 30
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jewellery bases",
+    "rarities": ["Normal", "Magic"],
+    "items": [
+      "Amber Amulet",
+      "Jade Amulet",
+      "Lapis Amulet",
+      "Lunar Amulet",
+      "Bloodstone Amulet",
+      "Stellar Amulet",
+      "Solar Amulet",
+      "Gold Amulet",
+      "Golden Obi",
+      "Rawhide Belt",
+      "Linen Belt",
+      "Wide Belt",
+      "Long Belt",
+      "Plate Belt",
+      "Ornate Belt",
+      "Mail Belt",
+      "Double Belt",
+      "Heavy Belt",
+      "Utility Belt",
+      "Fine Belt",
+      "Lazuli Ring",
+      "Ruby Ring",
+      "Sapphire Ring",
+      "Topaz Ring",
+      "Amethyst Ring",
+      "Emerald Ring",
+      "Pearl Ring",
+      "Prismatic Ring",
+      "Gold Ring",
+      "Unset Ring",
+      "Ring"
+    ],
+    "style": {
+      "borderColor": "#0000FFFF",
+      "textColor": "#0000FFFF", 
+      "fontSize": 30
+    }
+  },
+  {
+    "id": 5,
+    "name": "Breach Ring",
+    "rarities": ["Normal", "Magic"],
+    "items": [
+      "Breach Ring"
+    ],
+    "style": {
+      "borderColor": "#FF00FFFF", 
+      "backgroundColor": "#000000FF", 
+      "textColor": "#FF00FFFF", 
+      "fontSize": 40
+    }
+  },
+  {
+    "id": 6,
+    "name": "All rares",
+    "items": [],
+    "rarities": ["Rare"],
+    "style": {
+      "borderColor": "#f9ff00FF", 
+      "backgroundColor": "#000000FF", 
+      "textColor": "#f9ff00FF", 
+      "fontSize": 30
+    }
+  },
+  {
+    "id": 7,
+    "name": "Test",
+    "items": [],
+    "style": {
+      "borderColor": "#000000FF", 
+      "backgroundColor": "FFFFFFFF", 
+      "textColor": "#000000FF", 
+      "fontSize": 45,
+      "areaLevel": { "op": ">", "min": 64 },
+      "iconEnabled": false,
+      "iconSize": null,
+      "iconColor": null,
+      "iconShape": null,
+      "beamEnabled": false,
+      "beamColor": null,
+      "beamTemporary": null,
+      "soundEnabled": "Normal",
+      "soundType": "Normal",
+      "soundFile": 1,
+      "soundVolume": 200
+    }
+  }
+]

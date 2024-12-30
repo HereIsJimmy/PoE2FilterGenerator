@@ -1,0 +1,43 @@
+{
+  "rings": [
+    "Iron Ring",
+    "Lazuli Ring",
+    "Ruby Ring",
+    "Sapphire Ring",
+    "Topaz Ring",
+    "Amethyst Ring",
+    "Emerald Ring",
+    "Pearl Ring",
+    "Prismatic Ring",
+    "Gold Ring",
+    "Unset Ring",
+    "Ring",
+    "Breach Ring"
+  ],
+  "amulets": [
+    "Crimson Amulet",
+    "Azure Amulet",
+    "Amber Amulet",
+    "Jade Amulet",
+    "Lapis Amulet",
+    "Lunar Amulet",
+    "Bloodstone Amulet",
+    "Stellar Amulet",
+    "Solar Amulet",
+    "Gold Amulet"
+  ],
+  "belts": [
+    "Golden Obi",
+    "Rawhide Belt",
+    "Linen Belt",
+    "Wide Belt",
+    "Long Belt",
+    "Plate Belt",
+    "Ornate Belt",
+    "Mail Belt",
+    "Double Belt",
+    "Heavy Belt",
+    "Utility Belt",
+    "Fine Belt"
+  ]
+}
