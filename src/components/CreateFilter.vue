@@ -5,8 +5,7 @@
     <form class="needs-validation was-validated" novalidate>
       <div class="row  justify-content-center g-3">
         <div class="justify-content-center col-sm-4">
-          <label for="filterName" class="form-label">Filter name</label>
-          <input type="text" class="form-control" id="filterName" placeholder="GmeeFilter" v-model="filterName" required>
+          <input type="text" class="form-control" id="filterName" placeholder="Filter name" v-model="filterName" required>
           <div class="invalid-feedback">
             Filter name is required.
           </div>
@@ -33,7 +32,7 @@
 
       <hr class="my-4">
 
-      <button class="w-100 btn btn-primary btn-lg" type="button" @click="createFilter">
+      <button class="w-100 btn btn-primary btn-lg mb-4" type="button" @click="createFilter">
         Create filter
       </button>
     </form>
